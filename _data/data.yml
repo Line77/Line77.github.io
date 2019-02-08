@@ -15,7 +15,7 @@ sidebar:
     email: josevelarde00@gmail.com
     phone: 123 456 789
     website: Line77.github.io #do not add http://
-    linkedin: https://www.linkedin.com/in/jose-velarde-32293456
+    linkedin: jose-velarde-32293456
     github: Line77
     gitlab:
     bitbucket:
@@ -53,7 +53,7 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - Titulo: Ingeniero Electrónico
+    - title: Ingeniero Electrónico
       university: Universidad Nacional de Córdoba
       time: 2006 - 2019
       details: |
