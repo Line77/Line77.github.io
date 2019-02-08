@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: José Velarde
-    tagline: Ingeniero Electrónico - Diseñador Web Jr.
+    tagline: Ingeniero Electrónico, Diseñador Web Jr.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -29,7 +29,7 @@ sidebar:
         level: Nativo
 
       - idiom: Ingles
-        level: Professional
+        level: Intermedio
 
     interests:
       - item: Climbing
@@ -53,7 +53,7 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - title: Ingeniero Electrónico
+    - degree: Ingeniero Electrónico
       university: Universidad Nacional de Córdoba
       time: 2006 - 2019
       details: |
