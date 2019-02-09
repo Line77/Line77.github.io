@@ -136,7 +136,6 @@ projects:
         tagline: Mi primer proyecto de programación en Python, utilice PyQT para realizar la interfaz de un juego de mecanografía con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a>  o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados.
       
       - title: DevStudio
-        link: "#"
         tagline: A responsive website template designed to help web developers/designers market their services.
 
 publications:

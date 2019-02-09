@@ -22,12 +22,18 @@
       <span class="project-title">
         <a href="{{ project.link }}">{{ project.title }}</a>
       </span>
-      {% endif %}
+      {% else %}
       
-      {% if project.full_link %}
+        {% if project.full_link %}
+        <span class="project-title">
+          <a href="{{ project.full_link }}">{{ project.title }}</a>
+        </span>
+        {% endif %}
+        
       <span class="project-title">
-        <a href="{{ project.full_link }}">{{ project.title }}</a>
+        <a href="{{ project.link }}">{{ project.title }}</a>
       </span>
+        
       {% endif %}
       
       {% if project.tagline %}
