@@ -131,10 +131,11 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: TypeTester
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+        tagline: "Mi primer proyecto de programación en Python, utilice PyQT para realizar la interfaz de un juego de mecanografía con el fín de imitar páginas web como [typeracer](https://play.typeracer.com)"#  o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados."
+        #tagline: "Mi primer proyecto de programación en Python, utilice PyQT para realizar la interfaz de un juego de mecanografía con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a>  o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados."
+      
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
@@ -159,17 +160,11 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Reestructuración del Sistema de Hardware de la Red LEONA para la Observación de Eventos Luminosos Transientes 
+        authors: Velarde, J.M., Wayar, C.A. (2019)
+        conference: Universidad Nacional de Córdoba, FCEFyN - Córdoba, Argentina.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Habilidades
