@@ -80,71 +80,55 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Instalador de CCTV y Alarmas de Intrusón
+      time: 06.2016 - Presente
+      company: Independiente
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
+        Con la experiencia adquirida realizando soporte técnico para instaladores
+        profesionales de CCTV y alarmas de intrusión, 
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Soporte Técnico
+      time: 06.2015 - 02.2016
+      company: Starligh S.A.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Tareas realizadas:
+          - Soporte técnico a clientes externos e internos.
+          - Reparación de productos.
+          - Elaboración de manuales.
+          - Soporte IT.
+          - Desarrollo y dictado de cursos de capacitación.
+    - role: Pasante 
+      time: 07.2012 - 06.2015
+      company: Insituto de Astronomía Teórica y Experimental (IATE-CONICET)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
+        Diseño de un sistema de observación remoto. El proyecto consistió en la 
+        implementación de un sistema de cámaras controladas remotamente.
           - Bullet point
           - Bullet point
 
 projects:
     title: Proyectos
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: TypeTester
         full_link: https://github.com/Line77/Type-tester-pyqt5
         tagline: Mi primer proyecto de programación en Python, utilice PyQT para realizar la interfaz de un juego de mecanografía con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a>  o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados.
       
-      - title: DevStudio
-        tagline: A responsive website template designed to help web developers/designers market their services.
+      - title: Belmar
+        link: Belmar
+        tagline: Sitio web para una nueva PyME, utilice un tema de WordPress con características personalizadas. Este link lleva a una versión estática del sitio.
+
+      - title: LEONA
+        no_link: yes
+        tagline: Participe en un período del proyecto <a href="https://sites.google.com/illinois.edu/relampago/home" target="_blank" rel="nofollow">RELAMPAGO-CACTI</a>, formando parte del equipo encargado del proyecto <a href="http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983" target="_blank" rel="nofollow"> LEONA</a> cuyo objetivo es el estudio de fenómenos que ocurren en tormentas intensas. Durante esta campaña realicé instalaciones de equipos e instrumentación en 3 localidades, pertenecientes a las provincias de La Rioja y Santiago del Estero.
 
 publications:
     title: Publicaciones
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+      
     papers:
       - title: Reestructuración del Sistema de Hardware de la Red LEONA para la Observación de Eventos Luminosos Transientes 
         authors: Velarde, J.M., Wayar, C.A. (2019)
