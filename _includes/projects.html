@@ -18,11 +18,18 @@
 
   {% for project in projects.assignments %}
     <div class="item">
-
+      {% if project.link %}
       <span class="project-title">
         <a href="{{ project.link }}">{{ project.title }}</a>
       </span>
-
+      {% endif %}
+      
+      {% if project.full_link %}
+      <span class="project-title">
+        <a href="{{ project.full_link }}">{{ project.title }}</a>
+      </span>
+      {% endif %}
+      
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
