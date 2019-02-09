@@ -32,62 +32,43 @@ sidebar:
         level: Intermedio
 
     interests:
-      - item: Climbing
+      - item: # Climbing
         link:
 
-      - item: Snowboarding
+      - item: # Snowboarding
         link:
 
-      - item: Cooking
-        link:
+
 
 career-profile:
     title: Resumén 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Soy estudiante de Ingeniería Electronica de la Universidad Nacional de Córdoba, 
+      con solo el proyecto integrador pendiente de rendir. Mi objetivo es encontrar 
+      un puesto que me permita adquirir experiencia, y desarrollarme tanto personal 
+      como profesionalmente.
 
-      Second paragraph if required.
 
 education:
     - degree: Ingeniero Electrónico
       university: Universidad Nacional de Córdoba
       time: 2006 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        
     - degree: Técnico en Electrónica
       university: Escuela de Educación Técnica Nº3138 - Salta
       time: 2003 - 2005
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Instalador de CCTV y Alarmas de Intrusón
       time: 06.2016 - Presente
       company: Independiente
       details: |
-        Con la experiencia adquirida realizando soporte técnico para instaladores
-        profesionales de CCTV y alarmas de intrusión, 
-          - Bullet point
-          - Bullet point
+        Volqué la experiencia adquirida realizando soporte técnico para instaladores
+        profesionales de CCTV y alarmas de intrusión en un pequeño empredimiento, 
+        el cual termino siendo mi fuente principal de ingresos.
+        
 
     - role: Soporte Técnico
       time: 06.2015 - 02.2016
@@ -105,8 +86,6 @@ experiences:
       details: |
         Diseño de un sistema de observación remoto. El proyecto consistió en la 
         implementación de un sistema de cámaras controladas remotamente.
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Proyectos
