@@ -13,15 +13,15 @@ sidebar:
 
     # Sidebar links
     email: josevelarde00@gmail.com
-    phone: 387 4521 361
+    phone: # +55 12 981865664
     website: Line77.github.io #do not add http://
     linkedin: Jose-Velarde
     github: Line77
     gitlab:
     bitbucket:
-    twitter: '@J_velarde'
+    twitter: # '@J_velarde'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: Line77
+    codewars: # Line77
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -30,7 +30,10 @@ sidebar:
 
       - idiom: Ingles
         level: Avanzado
-
+        
+      - idiom: Portugues
+        level: Intermedio
+        
 #    interests:
  #     - item:
   #      link:
@@ -43,33 +46,41 @@ sidebar:
 career-profile:
     title: Resumén 
     summary: |
-      Soy estudiante de Ingeniería Electronica de la Universidad Nacional de Córdoba, 
-      con solo el proyecto integrador pendiente de rendir. Mi objetivo es encontrar 
-      un puesto que me permita adquirir experiencia, y desarrollarme tanto personal 
-      como profesionalmente.
-
+      Ingeniero Electronico de la Universidad Nacional de Córdoba, Argentina. Tengo interes en programación,
+      sistemas embebidos, IoT. Mi objetivo profesional es adquirir experiencia en diseño de software y hardware.
 
 education:
+    - degree: Maestria en Geofísica Espacial
+      university: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brazil
+      time: 2019 - Presente
+      details: |
+      
     - degree: Ingeniero Electrónico
-      university: Universidad Nacional de Córdoba
+      university: Universidad Nacional de Córdoba, Córdoba - Argentina
       time: 2006 - 2019
       details: |
         
     - degree: Técnico en Electrónica
-      university: Escuela de Educación Técnica Nº3138 - Salta
+      university: Escuela de Educación Técnica Nº3138, Salta - Argentina
       time: 2003 - 2005
       details: |
 
 experiences:
+    - role: Becario CNPq - Maestria em Geofísica Espacial
+      time: 05.2019 - Presente
+      company: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brazil
+      details: |
+        Actualmente soy colaborador del proyecto <a href="http://www.dae.inpe.br/acatmos/" target="_blank" rel="nofollow">LEONA</a>, donde realizo
+        tareas destinadas al mantenimiento y desarrollo de los equipos. 
+        
     - role: Instalador de CCTV y Alarmas de Intrusón
-      time: 06.2016 - Presente
+      time: 06.2016 - 12.2018
       company: Independiente
       details: |
         Volqué la experiencia adquirida realizando soporte técnico para instaladores
         profesionales de CCTV y alarmas de intrusión en un pequeño empredimiento, 
         el cual termino siendo mi fuente principal de ingresos.
         
-
     - role: Soporte Técnico
       time: 06.2015 - 02.2016
       company: Starligh S.A.
@@ -80,9 +91,10 @@ experiences:
           - Elaboración de manuales.
           - Soporte IT.
           - Desarrollo y dictado de cursos de capacitación.
+          
     - role: Pasante 
       time: 07.2012 - 06.2015
-      company: Insituto de Astronomía Teórica y Experimental (IATE-CONICET)
+      company: Observatorio Astronómico de Córdoba
       details: |
         Diseño de un sistema de observación remoto. El proyecto consistió en la 
         implementación de un sistema de cámaras controladas remotamente.
@@ -94,15 +106,27 @@ projects:
     assignments:
       - title: TypeTester
         full_link: https://github.com/Line77/Type-tester-pyqt5
-        tagline: Mi primer proyecto de programación en Python, utilice PyQT para realizar la interfaz de un juego de mecanografía con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a>  o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados.
+        tagline: Mi primer proyecto de programación en Python, utilice PyQT para realizar la interfaz de un juego de mecanografía 
+        con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a>  
+        o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad 
+        de agregar textos personalizados.
       
-      - title: Belmar
-        link: Belmar
-        tagline: Sitio web para una nueva PyME, utilice un tema de WordPress con características personalizadas. Sitio en construcción.
+      - title: # Belmar
+        link: # Belmar
+        tagline: # Sitio web para una nueva PyME, utilice un tema de WordPress con características personalizadas. Sitio en construcción.
 
-      - title: LEONA
-        no_link: yes
-        tagline: Participe en un período del proyecto <a href="https://sites.google.com/illinois.edu/relampago/home" target="_blank" rel="nofollow">RELAMPAGO-CACTI</a>, formando parte del equipo encargado del proyecto <a href="http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983" target="_blank" rel="nofollow"> LEONA</a> cuyo objetivo es el estudio de fenómenos que ocurren en tormentas intensas. Durante esta campaña realicé instalaciones de equipos e instrumentación en 3 localidades, pertenecientes a las provincias de La Rioja y Santiago del Estero.
+      - title: LEONA 2018
+        full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983
+        tagline: Participe en un período del proyecto 
+        <a href="https://sites.google.com/illinois.edu/relampago/home" target="_blank" rel="nofollow">RELAMPAGO-CACTI</a>, 
+        formando parte del equipo encargado del proyecto <a href="http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983" target="_blank" rel="nofollow"> LEONA</a> 
+        cuyo objetivo es el estudio de fenómenos que ocurren en tormentas intensas. Durante esta campaña realicé instalaciones de equipos 
+        e instrumentación en 3 localidades, pertenecientes a las provincias de La Rioja y Santiago del Estero.
+      
+      - title: LEONA 2019
+        full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=4983
+        tagline: La campanã 2019 del proyecto LEONA se realizó de manera remota, utilizando equipos instalados en 7 ciudades de 
+        Argentina y Brasil.
 
 publications:
     title: Publicaciones
@@ -119,6 +143,12 @@ skills:
     title: Habilidades
 
     toolset:
+      - name: Arduino
+        level: 100%
+
+      - name: Diseño electrónico
+        level: 100%
+
       - name: Python
         level: 90%
 
@@ -131,11 +161,6 @@ skills:
       - name: Sketch, Blender & Photoshop
         level: 75%
 
-      - name: Diseño electrónico
-        level: 100%
-
-      - name: Arduino
-        level: 100%
 
 footer: >
     Diseño por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
