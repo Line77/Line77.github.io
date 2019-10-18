@@ -101,7 +101,7 @@ experiences:
 
 projects:
     title: Proyectos
-    intro: >
+    intro: |
 
     assignments:
       - title: TypeTester
