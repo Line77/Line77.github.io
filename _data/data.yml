@@ -46,8 +46,7 @@ sidebar:
 career-profile:
     title: Resumén 
     summary: |
-      Ingeniero Electronico de la Universidad Nacional de Córdoba, Argentina. Tengo interes en programación,
-      sistemas embebidos, IoT. Mi objetivo profesional es adquirir experiencia en diseño de software y hardware.
+      Ingeniero Electronico de la Universidad Nacional de Córdoba, Argentina. Tengo interes en programación, sistemas embebidos, IoT. Mi objetivo profesional es adquirir experiencia en diseño de software y hardware.
 
 education:
     - degree: Maestría en Geofísica Espacial
@@ -70,18 +69,13 @@ experiences:
       time: 05.2019 - Presente
       company: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brazil
       details: |
-        Actualmente soy colaborador del proyecto <a href="http://www.dae.inpe.br/acatmos/" target="_blank" rel="nofollow">LEONA</a>, donde realizo
-        tareas destinadas al mantenimiento y desarrollo de los equipos. La red LEONA consiste de estaciones de observación de Eventos Luminosos Transitorios,
-        fenomenos de corta duracón que ocurren en la atmosfera por encima de tormentas electricas. Las estaciones estan equipadas con camaras de alta sensibilidad a la luz y
-        dispositivos de control que permiten el manejo remoto del sistema.
+        Actualmente soy colaborador del proyecto <a href="http://www.dae.inpe.br/acatmos/" target="_blank" rel="nofollow">LEONA</a>, donde realizo tareas destinadas al mantenimiento y desarrollo de los equipos. La red LEONA consiste de estaciones de observación de Eventos Luminosos Transitorios, fenomenos de corta duracón que ocurren en la atmosfera por encima de tormentas electricas. Las estaciones estan equipadas con camaras de alta sensibilidad a la luz y dispositivos de control que permiten el manejo remoto del sistema.
         
     - role: Instalador de CCTV y Alarmas de Intrusón
       time: 06.2016 - 12.2018
       company: Independiente
       details: |
-        Volqué la experiencia adquirida realizando soporte técnico para instaladores
-        profesionales de CCTV y alarmas de intrusión en un pequeño empredimiento, 
-        el cual termino siendo mi fuente principal de ingresos.
+        Volqué la experiencia adquirida realizando soporte técnico para instaladores profesionales de CCTV y alarmas de intrusión en un pequeño empredimiento, el cual termino siendo mi fuente principal de ingresos.
         
     - role: Soporte Técnico
       time: 06.2015 - 02.2016
@@ -98,8 +92,7 @@ experiences:
       time: 07.2012 - 06.2015
       company: Observatorio Astronómico de Córdoba
       details: |
-        Diseño de un sistema de observación remoto. El proyecto consistió en la 
-        implementación de un sistema de cámaras controladas remotamente.
+        Diseño de un sistema de observación remoto. El proyecto consistió en la implementación de un sistema de cámaras controladas remotamente.
 
 projects:
     title: Proyectos
