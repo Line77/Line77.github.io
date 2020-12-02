@@ -71,7 +71,9 @@ experiences:
       company: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brazil
       details: |
         Actualmente soy colaborador del proyecto <a href="http://www.dae.inpe.br/acatmos/" target="_blank" rel="nofollow">LEONA</a>, donde realizo
-        tareas destinadas al mantenimiento y desarrollo de los equipos. 
+        tareas destinadas al mantenimiento y desarrollo de los equipos. La red LEONA consiste de estaciones de observación de Eventos Luminosos Transitorios,
+        fenomenos de corta duracón que ocurren en la atmosfera por encima de tormentas electricas. Las estaciones estan equipadas con camaras de alta sensibilidad a la luz y
+        dispositivos de control que permiten el manejo remoto del sistema.
         
     - role: Instalador de CCTV y Alarmas de Intrusón
       time: 06.2016 - 12.2018
@@ -106,7 +108,7 @@ projects:
     assignments:
       - title: TypeTester
         full_link: https://github.com/Line77/Type-tester-pyqt5
-        tagline: Mi primer proyecto de programación en Python, utilice PyQT para realizar la interfaz de un juego de mecanografía con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a> o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados.
+        tagline: Mi primer proyecto de programación en Python, consiste de un juego de mecanografía con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a> o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados.
       
 #      - title: Belmar
 #        link: Belmar
@@ -118,7 +120,7 @@ projects:
       
       - title: LEONA 2019
         full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=5284
-        tagline: La campanã 2019 del proyecto LEONA se realizó de manera remota, utilizando equipos instalados en 7 ciudades de Argentina y Brasil.
+        tagline: La campaña 2019 del proyecto LEONA se realizó de manera remota, utilizando equipos instalados en 7 ciudades de Argentina y Brasil.
 
 publications:
     title: Publicaciones
