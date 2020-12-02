@@ -46,11 +46,11 @@ sidebar:
 career-profile:
     title: Resumén 
     summary: |
-      Ingeniero Electronico de la Universidad Nacional de Córdoba, Argentina. Tengo interes en programación, sistemas embebidos, IoT. Mi objetivo profesional es adquirir experiencia en diseño de software y hardware.
+      Ingeniero Electrónico de la Universidad Nacional de Córdoba, Argentina. Tengo interes en programación, sistemas embebidos, IoT. Mi objetivo profesional es adquirir experiencia en diseño de software y hardware.
 
 education:
     - degree: Maestría en Geofísica Espacial
-      university: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brazil
+      university: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brasil
       time: 2019 - Presente
       details: |
       
@@ -67,11 +67,11 @@ education:
 experiences:
     - role: Becario CNPq - Maestría en Geofísica Espacial
       time: 05.2019 - Presente
-      company: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brazil
+      company: Instituto Nacional de Investigaciones Espaciales - INPE, São José dos Campos, SP - Brasil
       details: |
-        Actualmente soy colaborador del proyecto <a href="http://www.dae.inpe.br/acatmos/" target="_blank" rel="nofollow">LEONA</a>, donde realizo tareas destinadas al mantenimiento y desarrollo de los equipos. La red LEONA consiste de estaciones de observación de Eventos Luminosos Transitorios, fenomenos de corta duracón que ocurren en la atmosfera por encima de tormentas electricas. Las estaciones estan equipadas con camaras de alta sensibilidad a la luz y dispositivos de control que permiten el manejo remoto del sistema.
+        Actualmente soy colaborador del proyecto <a href="http://www.dae.inpe.br/acatmos/" target="_blank" rel="nofollow">LEONA</a>, donde realizo tareas destinadas al mantenimiento y desarrollo de los equipos. La red LEONA consiste de estaciones de observación de Eventos Luminosos Transitorios, fenomenos de corta duracón que ocurren en la atmosfera por encima de tormentas eléctricas intensas. Las estaciones estan equipadas con cámaras de alta sensibilidad a la luz y dispositivos de control que permiten el manejo remoto del sistema.
         
-    - role: Instalador de CCTV y Alarmas de Intrusón
+    - role: Instalador de CCTV y Alarmas de Intrusión
       time: 06.2016 - 12.2018
       company: Independiente - Córdoba
       details: |
@@ -99,9 +99,9 @@ projects:
     intro: >
 
     assignments:
-      - title: TypeTester
-        full_link: https://github.com/Line77/Type-tester-pyqt5
-        tagline: Mi primer proyecto de programación en Python, consiste de un juego de mecanografía con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a> o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados.
+#      - title: TypeTester
+#        full_link: https://github.com/Line77/Type-tester-pyqt5
+#        tagline: Mi primer proyecto de programación en Python, consiste de un juego de mecanografía con el fín de imitar páginas web como <a href="https://play.typeracer.com" target="_blank" rel="nofollow">typeracer</a> o <a href="https://www.keyhero.com/free-typing-test/?lang=2" target="_blank" rel="nofollow">keyhero</a>, con la posibilidad de agregar textos personalizados.
       
 #      - title: Belmar
 #        link: Belmar
