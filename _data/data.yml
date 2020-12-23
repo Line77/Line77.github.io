@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Resumén 
     summary: |
-      Ingeniero Electrónico de la Universidad Nacional de Córdoba, Argentina. Tengo interes en programación, sistemas embebidos, IoT. Mi objetivo profesional es adquirir experiencia en diseño de software y hardware.
+      Ingeniero Electrónico de la Universidad Nacional de Córdoba, Argentina. Actualmente hago una maestría en el Instituto Nacional de Investigaciones Espaciales (INPE) de Brasil, trabajo en el procesamiento de datos meteorologicos satelitales para la investigación científica de fenomenos de la alta atmósfera. Mi objetivo profesional es adquirir experiencia en diseño de software aplicando Inteligencia Artificial y Machine Learning.
 
 education:
     - degree: Maestría en Geofísica Espacial
@@ -145,8 +145,8 @@ skills:
       - name: JavaScript, PHP
         level: 50%
 
-      - name: Sketch, Blender & Photoshop
-        level: 75%
+      - name: Modelado 3D (Blender, Marvelous Designer) y diseño 2D (Krita)
+        level: 90%
 
 
 footer: >
