@@ -121,8 +121,10 @@ projects:
         
       - title: LEONA 2020
         full_link:
-        tagline: 
-      
+        tagline: >
+
+
+
 publications:
     title: Publicaciones
     intro: |
