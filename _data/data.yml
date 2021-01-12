@@ -46,7 +46,7 @@ sidebar:
 career-profile:
     title: Resumén 
     summary: |
-      Ingeniero Electrónico de la Universidad Nacional de Córdoba, Argentina. Actualmente hago una maestría en el Instituto Nacional de Investigaciones Espaciales (INPE) de Brasil, trabajo en el procesamiento de datos meteorologicos satelitales para la investigación científica de fenomenos de la alta atmósfera. Mi objetivo profesional es adquirir experiencia en diseño de software aplicando Inteligencia Artificial y Machine Learning.
+      Ingeniero Electrónico de la Universidad Nacional de Córdoba, Argentina. Actualmente hago una maestría en el Instituto Nacional de Investigaciones Espaciales (INPE) de Brasil, trabajo en el procesamiento de datos meteorologicos satelitales para la investigación científica de fenomenos de la alta atmósfera. Mi objetivo profesional es adquirir experiencia en diseño de software aplicando Inteligencia Artificial y Machine Learning, y diseño de hardware de dispositivos IoT.
 
 education:
     - degree: Maestría en Geofísica Espacial
@@ -114,6 +114,10 @@ projects:
       - title: LEONA 2019
         full_link: http://www.inpe.br/noticias/noticia.php?Cod_Noticia=5284
         tagline: La campaña 2019 del proyecto LEONA se realizó de manera remota, utilizando equipos instalados en 7 ciudades de Argentina y Brasil.
+        
+      - title: LEONA 2020
+        full_link:
+        tagline: Debido a la pandemia de 2020, esta campaña se centró en el procesamiento de datos de las campañas de 2018 y 2019, y además, la preparación de equipos para futuras estaciones LEONA.
 
 publications:
     title: Publicaciones
